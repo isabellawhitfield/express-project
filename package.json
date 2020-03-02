@@ -18,10 +18,10 @@
   "homepage": "https://github.com/isabellawhitfield/express-project#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "express": "^4.17.1",
     "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "@popperjs/core": "^2.0.6"
+    "@popperjs/core": "^2.0.6",
+    "express": "^4.17.1"
   }
 }
